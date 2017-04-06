@@ -8,7 +8,7 @@
 #include "MainFrm.h"
 #include "DlgEncode.h"
 #include <afxmdiframewndex.h>
-#include "..\QrEncode\ChildFrm.h"
+#include "ChildFrm.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW

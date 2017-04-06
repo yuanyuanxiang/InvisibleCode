@@ -86,7 +86,7 @@
     <Link>
       <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalDependencies>$(TargetDir)libqrdecode.lib;$(TargetDir)zlib.lib</AdditionalDependencies>
+      <AdditionalDependencies>lib/libqrdecode.lib;lib/zlib.lib</AdditionalDependencies>
     </Link>
     <Midl>
       <MkTypLibCompatible>false</MkTypLibCompatible>
